@@ -12,6 +12,6 @@
   "fluent-ffmpeg": "^2.1.2",
   "ffmpeg-static": "^4.4.0",
   "archiver": "^5.3.1",
-  "get-audio-duration": "^5.0.0"
+  "get-audio-duration": "^4.0.0"
 }
 }
